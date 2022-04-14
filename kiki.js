@@ -1146,12 +1146,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Youtube Owner',
-                                    url: 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
+                                    url: 'https://chat.whatsapp.com/HelfAltJF0GFhvXUa95O8E'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 838-0884-0711'
+                                    phoneNumber: '+62 83113989278'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1185,12 +1185,12 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Yotube Owner',
-                                    url: 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
+                                    url: 'https://chat.whatsapp.com/HelfAltJF0GFhvXUa95O8E'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 838-0884-0711'
+                                    phoneNumber: '+62 83113989278'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1801,7 +1801,7 @@ break
                 kiki.sendText(m.chat, ` *Lahir :* ${anu.message.tgl_lahir}\n *Kala Tinantang :* ${anu.message.kala_tinantang}\n *Info :* ${anu.message.info}\n *Catatan :* ${anu.message.catatan}`, m)
             }
             break
-            case  'sc' :`https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa`
+            case  'sc' :`https://youtube.com/channel/UCueojYUvg1lLgdoWeX82UMw`
             
             case 'harisangar': case 'taliwangke': {
                 if (!text) throw `Example : ${prefix + command} 7, 7, 2005`
@@ -2605,11 +2605,11 @@ case 'thanksto':
 await kiki.send5ButImg(from, `` + '' + lang.thanksto(), `© ${footer}`,thumb, [{"urlButton": {"displayText": "Source Code","url": `${sc}`}},{"urlButton": {"displayText": "YouTube Cerator","url": `${myweb}`}},{"quickReplyButton": {"displayText": "Donasi","id": 'donate'}},{"quickReplyButton": {"displayText": "Back List","id": 'command'}}] )
 break
 case 'donasi': case 'buypremium': case 'donate': {
-                kiki.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/d902313cf651f7013f97f.jpg' }, caption: `Hai Kak ${m.pushName}seberapa donasi kamu akan saya tanggung terimakasih 🙏🏻` }) 
+                kiki.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/b3fa675f3d3ebafd640f1.jpg' }, caption: `Hai Kak ${m.pushName}seberapa donasi kamu akan saya tanggung terimakasih 🙏🏻` }) 
     }
 	break
     case 'grupowner':
-m.reply(`https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa`)
+m.reply(`https://chat.whatsapp.com/HelfAltJF0GFhvXUa95O8E`)
 break
             default:
                 if (budy.startsWith('=>')) {
